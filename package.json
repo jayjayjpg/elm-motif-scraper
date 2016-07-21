@@ -1,0 +1,18 @@
+{
+  "name": "elm-motif-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.2",
+    "cheerio": "^0.20.0",
+    "nightmare": "^2.5.3",
+    "scraperjs": "^1.2.0",
+    "spooky": "^0.2.5"
+  }
+}
