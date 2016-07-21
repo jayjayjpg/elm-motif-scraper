@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "casperjs": "^1.1.2",
-    "cheerio": "^0.20.0",
     "nightmare": "^2.5.3",
     "scraperjs": "^1.2.0",
     "spooky": "^0.2.5"

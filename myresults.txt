@@ -1,6 +1,3 @@
-[ '/home/jj/nvm/versions/node/v5.0.0/bin/node',
-  '/home/jj/Documents/coding/clients/biojs/paddie-scraper/scrape.js',
-  'http://elm.eu.org/cgimodel.py?fun=smartResult&userId=QiKUWpKjPk&EXPECT_CUTOFF=100&r=1&bg=on' ]
 CLV_C14_Caspase3-7
 CLV_NRD_NRD_1
 CLV_PCSK_PC1ET2_1
@@ -48,4 +45,4 @@ TRG_NES_CRM1_1
 TRG_NLS_Bipartite_1
 TRG_NLS_MonoExtC_3
 TRG_NLS_MonoExtN_4
-These are 47 elements
+Found 47 elements
