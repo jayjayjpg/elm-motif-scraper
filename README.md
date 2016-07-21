@@ -10,6 +10,12 @@ This node script will get all the names of motifs on the result page and write t
 
 If you haven't node installed yet, please do so via https://nodejs.org/en/ according to the instructions specific to your OS
 
+#### Get Phantom JS
+
+If you haven't installed PhantomJS yet, please install it with the version 1.9.7 globally:
+
+`npm install -g phantomjs@1.9.7`
+
 #### Get the Code From Github
 
 Clone this repo into your favorite directory folder
